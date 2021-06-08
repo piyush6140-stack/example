@@ -7,6 +7,7 @@ public class IM {
     {
         /* for mac and os */
         mac w=new mac();
+	mac w1=new mac();
         //String macAddress = w.getSystemMac();
         //System.out.println("System Mac Address : "+macAddress);
         register regi=new register ();
